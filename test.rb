@@ -1,0 +1,8 @@
+# puts "hello there"
+# puts "hello again"
+puts "I like typing this" # "let's get started."
+puts "this is fun" # "I like this"
+# puts "Yay! printing"
+# puts "i'd must rather you 'not'."
+puts 'I "said" do not touch this.' # "that means now."
+puts "i could have code like this"
