@@ -1,0 +1,2 @@
+# LearnRubyTheHardWay
+ruby learning 
